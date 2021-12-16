@@ -5,7 +5,7 @@ An address book application built with React, JavaScript.
 ## Installation and Setup Instructions
 
 - Clone and Unzip this repository. You will need `node` and `npm` installed globally on your machine.
-- Clone and unzip mock json server api. https://github.com/aditim111/jsonserver-api
+- Clone and unzip mock json server api. https://github.com/aditim111/json-server-api
 
 Installation:
 
